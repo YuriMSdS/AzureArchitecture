@@ -72,7 +72,7 @@ Após a autenticação realizada anteriormente realize os seguintes passos:
 1. Criar um arquivo `main.tf` (como este presente na pasta `infra`).
 2. Iniciar o Terraform
 3. Planejar a infra (gera um plano de execução, afim de verificar o que será criado)
-4. Aplicar a configuração (neste passo, criará o banco de dados utilizando as variáveis de credenciais, visando a segurança)
+4. Aplicar a configuração (neste passo, criará toda a arquitetura utilizando as variáveis de credenciais, visando a segurança)
 
 ### Inicializar o Terraform
 ```bash
