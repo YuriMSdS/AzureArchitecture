@@ -7,6 +7,11 @@ Este projeto demonstra como construir uma arquitetura básica no Microsoft Azure
 - Uma rede virtual (VNet) com uma sub-rede
 - Uma máquina virtual Linux (VM)
 - Um endereço IP público e uma interface de rede
+- Grupo de Segurança de Rede (NSG): Proteção adicional para a máquina virtual, permitindo apenas tráfego SSH (porta 22).
+- Servidor PostgreSQL: Implementação de um servidor de banco de dados PostgreSQL.
+- Banco de Dados PostgreSQL: Configuração de um banco de dados com charset e collation definidos.
+- Regras de Firewall para PostgreSQL: Acesso ao banco de dados por meio de regras de firewall que permitem tráfego de IPs externos.
+- Configuração de SSL: Implementação de SSL enforcement no servidor PostgreSQL para garantir conexões seguras.
 
 ## Requisitos Necessários
 
