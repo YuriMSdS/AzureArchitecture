@@ -1,0 +1,6 @@
+#Este .gitignore terá somente comentários, por se tratar de um projeto informativo não há necessidade de ignorar nada, tendo em vista que não estou utilizando credenciais válidas
+
+#Segue abaixo a forma correta (sem estar comentado) do arquivo:
+
+#.tfvars
+#.tfstate
